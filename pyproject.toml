@@ -1,0 +1,20 @@
+[project]
+name = "DoTLMViz"
+version = "0.1"
+dependencies = [
+    "mkdocs",
+    "pre-commit",
+    "ruff"
+]
+
+[project.urls]
+Repository = "https://github.com/Arktetra/DoTLMViz.git"
+
+[tool.setuptools]
+packages = ["DoTLMViz"]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+ignore = ["E722", "E731", "F722"]
