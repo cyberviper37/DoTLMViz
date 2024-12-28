@@ -22,7 +22,7 @@ or
 
 <br/>
 
-**For Fresh - Requiremnts**
+**For Fresh - Requirements**
 - Install Node from https://nodejs.org/en/download
     then check if installed, with command `node --version` in terminal
 - In terminal `npm i -g vite`
