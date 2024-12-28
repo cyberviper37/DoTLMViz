@@ -1,4 +1,37 @@
-# Svelte + TS + Vite
+## How to use
+
+**Clone repo**
+
+    git clone https://github.com/Arktetra/DoTLMViz
+    git checkout svelte-sandbox
+
+**Optional : If only this branch required**
+
+    git clone https://github.com/Arktetra/DoTLMViz -b svelte-sandbox
+
+**Install dependencies**
+
+    npm i 
+
+**Run the dev server**
+
+    vite
+or 
+
+    npm run dev
+
+<br/>
+
+**For Fresh - Requiremnts**
+- Install Node from https://nodejs.org/en/download
+    then check if installed, with command `node --version` in terminal
+- In terminal `npm i -g vite`
+
+
+<hr>
+<h1><u>Svelte stuffs</u></h1>
+
+## Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
