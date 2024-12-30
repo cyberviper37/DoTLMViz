@@ -3,6 +3,8 @@ name = "DoTLMViz"
 version = "0.1"
 dependencies = [
     "mkdocs",
+    "mkdocstrings-python",
+    "mkdocs-material",
     "pre-commit",
     "ruff"
 ]
